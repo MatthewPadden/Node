@@ -1,0 +1,15 @@
+{
+  "name": "_06_BasicExpress",
+  "version": "0.0.0",
+  "description": "06_BasicExpress",
+  "main": "app.js",
+  "author": {
+    "name": "Matthew Padden",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "^3.4.4",
+    "pug": "^0.1.0",
+    "stylus": "^0.54.5"
+  }
+}

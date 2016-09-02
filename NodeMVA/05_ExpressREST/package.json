@@ -1,0 +1,12 @@
+{
+  "name": "express-rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "pug": "^0.1.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
